@@ -1,3 +1,3 @@
 <p align="center">
-  <img width="800" src="https://raw.githubusercontent.com/0xHanniba1/0xHanniba1/7d7eb553e5e5451287a8b36e0bcebd6d62298222/assets/kerwin.gif" alt="kerwin's terminal" />
+  <img width="800" src="https://raw.githubusercontent.com/0xHanniba1/0xHanniba1/ca9d9ed94d66185a30b4f8a854d716c8db2a6bd2/assets/kerwin.gif" alt="kerwin's terminal" />
 </p>
